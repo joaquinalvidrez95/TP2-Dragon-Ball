@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7be9b893-a6f2-4225-a9d2-8bbe5dc71ee1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/SquareTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/board/Board.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/board/Column.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/board/Position.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/board/Row.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/board/Square.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/board/SquareCollection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/board/SquareSet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/exception/InvalidNumberOfSquareSet.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/test/BoardTest.class" afterPath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/test/BoardTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/test/PositionTest.class" afterPath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/test/PositionTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/test/SquareCollectionTest.class" afterPath="$PROJECT_DIR$/out/production/TP2 Dragon Ball/test/SquareCollectionTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TP2 Dragon Ball.iml" afterPath="$PROJECT_DIR$/TP2 Dragon Ball.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tp2/character/goku/Kamehameha.java" afterPath="$PROJECT_DIR$/src/tp2/character/goku/Kamehameha.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/SquareTest.java" afterPath="$PROJECT_DIR$/src/test/SquareTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,17 +66,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SquareTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SquareTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/SquareTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="442">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Kamehameha.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Kamehameha.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tp2/character/goku/Kamehameha.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -187,8 +175,8 @@
         <option value="$PROJECT_DIR$/src/tp2/character/Character.java" />
         <option value="$PROJECT_DIR$/src/tp2/character/goku/Goku.java" />
         <option value="$PROJECT_DIR$/src/test/SquareTest.groovy" />
-        <option value="$PROJECT_DIR$/src/test/SquareTest.java" />
         <option value="$PROJECT_DIR$/src/tp2/character/goku/Kamehameha.java" />
+        <option value="$PROJECT_DIR$/src/test/SquareTest.java" />
       </list>
     </option>
   </component>
@@ -734,6 +722,14 @@
       <option name="presentableId" value="Default" />
       <updated>1496799835793</updated>
     </task>
+    <task id="LOCAL-00001" summary="added Test">
+      <created>1496992200953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496992200953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -809,7 +805,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="added Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1268,14 +1265,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/SquareTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tp2/character/goku/Kamehameha.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1283,6 +1272,16 @@
           <folding>
             <element signature="e#322#323#0" expanded="true" />
             <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/SquareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
